@@ -1,6 +1,6 @@
 //Written by JiangLai.
 //Tested Terminal:MacOS BigSur(Intel Core&Apple Silicon M1)
-//Under GNU2.0 License!
+//Under GNU3.0 License!
 //WARNING: ONLY FOR MACOS! NOT FOR OTHER UNIX(LIKE UNIX) KERNEL SYSTEM!
 #include <stdio.h>
 #include <stdlib.h>
